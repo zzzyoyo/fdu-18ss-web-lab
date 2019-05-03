@@ -37,4 +37,5 @@ function replace(event){
     var imgTittle = obj.title;
     document.getElementById("big").src = imgSrc.replace("small","medium");
     document.getElementById("big").title = imgTittle;
+    document.getElementById("title").innerHTML = imgTittle;
 }
