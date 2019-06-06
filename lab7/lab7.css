@@ -1,3 +1,4 @@
+ 
 main {
     margin: 30px 30px;
     font-family: "Open Sans",Arial, sans-serif;
@@ -79,4 +80,5 @@ figcaption {
    filter: opacity(62%) brightness(50%) contrast(50%);   
 -webkit-filter: opacity(62%) brightness(50%) contrast(50%);  
 }
+ 
 */

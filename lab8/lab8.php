@@ -1,3 +1,4 @@
+ 
 <?php include 'functions.inc.php'; ?>
 <?php 
 
@@ -136,4 +137,5 @@ $grandTotal = $subtotal + $shipping;
 </div>
           
 </body>
+ 
 </html>

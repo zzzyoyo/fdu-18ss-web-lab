@@ -1,3 +1,4 @@
+ 
 <?php
 
     function outputOrderRow($file, $title, $quantity, $price) {
@@ -10,4 +11,5 @@
         echo "<td>\${$amount}</td>";
         echo "</tr>";
     }
+ 
 ?>
